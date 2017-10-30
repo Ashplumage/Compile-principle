@@ -5,10 +5,10 @@
 ##src(代码文件)
 
 - com.huiyu.analysis
-    - Main.java（几个读取测试文件并将测试文件，内容进行字符串处理的方法）
+  - Main.java（几个读取测试文件并将测试文件，内容进行字符串处理的方法）
     
 - com.huiyu.test
-  -junitTest.java（采用单元测试的方法对Main.java中的方法进行测试）
+  - junitTest.java（采用单元测试的方法对Main.java中的方法进行测试）
 
 - com.huiyu.utils
   - GetSortNum.java(工具方法，根据字符获取到所对应的种别码)
